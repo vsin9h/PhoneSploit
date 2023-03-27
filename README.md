@@ -1,7 +1,4 @@
-![STARS](https://img.shields.io/github/stars/singhvijayp/PhoneSploit?style=social)  
-![FORKS](https://img.shields.io/github/forks/singhvijayp/PhoneSploit?style=social) 
-![COMMIT](https://img.shields.io/github/last-commit/singhvijayp/PhoneSploit) 
-![SIZE](https://img.shields.io/github/repo-size/singhvijayp/PhoneSploit)
+![STARS](https://img.shields.io/github/stars/singhvijayp/PhoneSploit?style=social)  ![FORKS](https://img.shields.io/github/forks/singhvijayp/PhoneSploit?style=social) ![COMMIT](https://img.shields.io/github/last-commit/singhvijayp/PhoneSploit) ![SIZE](https://img.shields.io/github/repo-size/singhvijayp/PhoneSploit)
 # PhoneSploit
 ### This tool will help you in the complete installation of PhoneSploit tool along with adbfiles.
 
